@@ -5,7 +5,7 @@
  - 工作年限：2年以上
  - 技术博客：https://www.zhihu.com/people/mr-zhang-54-99/posts
  - Github: http://github.com/rookiejin 
-
+ - 联系方式: 15828488636 <vardump@foxmail.com>
  - 期望职位：PHP中高级程序员，应用架构师
  - 期望薪资：税前月薪18k~13k
  - 期望城市：成都
