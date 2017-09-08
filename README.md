@@ -3,7 +3,7 @@
  - 张梦金/男/1992 
  - 本科/江西财经大学计算机科学与技术
  - 工作年限：2年以上
- - 技术博客：http://rookiejin.github.io
+ - 技术博客：https://www.zhihu.com/people/mr-zhang-54-99/posts
  - Github: http://github.com/rookiejin 
 
  - 期望职位：PHP中高级程序员，应用架构师
@@ -50,11 +50,6 @@
 * 项目发起人，旨在拥抱未来php生态，打造更适合现代业务流量井喷模式的系统
 * 该项目是基于swoole 2.0+的一套纯异步php mvc框架，以守护进程驻守在服务端，
 * 框架主要亮点在简洁明了的路由、异步日志、对象池、请求上下文、Mysql连接池、Redis连接池等多项新特性
-
-## 技术文章
-（挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
-
-- [知乎系列](https://www.zhihu.com/people/mr-zhang-54-99/posts)
 
 # 技能清单
 
